@@ -1,4 +1,4 @@
 import gms_logo from "./gms_logo.png";
-import Logo from "./Logo.png";
+import logo from "./logo.png";
 
-export { Logo, gms_logo };
+export { logo, gms_logo };
