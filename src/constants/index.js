@@ -202,7 +202,7 @@ export const skills = [
 export const experiences = [
   {
     title: "Full Stack Developer",
-    company_name: "GMS Global Solutions",
+    company_name: "Intware Technology",
     icon: gms_logo,
     iconBg: "#accbe1",
     date: "March 2020 - Present",

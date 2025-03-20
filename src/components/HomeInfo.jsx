@@ -19,7 +19,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className="info-box">
         <p className="font-medium sm:text-xl text-center">
-          Worked with <strong>GMS Global Solutions</strong> <br /> and picked up
+          Worked with <strong>Intware Technology</strong> <br /> and picked up
           many skills along the way
         </p>
 
